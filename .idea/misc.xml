@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/data/AndroidStudioProjects/AliPay/app/src/main/res/drawable/shape_corner.xml" value="0.1205" />
+        <entry key="..\:/data/AndroidStudioProjects/AliPay/app/src/main/res/drawable/shape_corner_sold.xml" value="0.1375" />
+        <entry key="..\:/data/AndroidStudioProjects/AliPay/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/data/AndroidStudioProjects/AliPay/app/src/main/res/layout/activity_pay.xml" value="0.22826086956521738" />
         <entry key="..\:/data/AndroidStudioProjects/AliPay/app/src/main/res/layout/dialog_loading.xml" value="0.22826086956521738" />
         <entry key="..\:/data/AndroidStudioProjects/AliPay/app/src/main/res/layout/dialog_pwd.xml" value="0.22826086956521738" />
